@@ -3,10 +3,6 @@
     src: url("fonts/OldStandardTT-Regular.ttf");
 }
 
-body {
-    font-family: 'CustomFont', sans-serif;
-}
-
 h3 {
     font-family: "chemifonti";
 }
