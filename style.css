@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Chemifonti';
+    src: url("fonts/OldStandardTT-Regular.ttf");
+}
+
+body {
+    font-family: 'CustomFont', sans-serif;
+}
+
+h3 {
+    font-family: "chemifonti";
+}
+
+#textfirst {
+    font-family: "chemifonti";
+}
+
+#textsecond {
+    font-family: "chemifonti";
+    text-align: justify;
+}
